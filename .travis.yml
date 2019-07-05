@@ -26,4 +26,4 @@ rvm:
   - 2.3.0-preview1-clang
   - 2.2.0
 script:
-  - rspec
+  - bundle exec rspec
